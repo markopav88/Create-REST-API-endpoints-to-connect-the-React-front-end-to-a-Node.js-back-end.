@@ -1,6 +1,6 @@
 # Create-REST-API-endpoints-to-connect-the-React-front-end-to-a-Node.js-back-end.
 
-##How to Start 
+How to Start 
 
 ###
 1.Run the following command in both sub-folders separately to install the dependencies:
