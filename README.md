@@ -19,3 +19,5 @@ Type y in the terminal prompt to use a different port.
 
 *Note that the start command runs nodemon for the backend server and react-scripts for the frontend server. Any code changes you make in these folders will trigger the application to re-render automatically.
 
+4.Try it out! You should now have a efficient way to keep track of the book’s and reading schedule and giving CRUD (create, read, update, delete) functionality to the book club’s application!
+
